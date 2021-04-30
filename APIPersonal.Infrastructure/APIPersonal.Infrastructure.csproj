@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APIPersonal.Common\APIPersonal.Common.csproj" />
+    <ProjectReference Include="..\APIPersonal.Domain\APIPersonal.Domain.csproj" />
+  </ItemGroup>
 
 </Project>

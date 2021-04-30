@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "APIPersonal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/APIPersonal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APIPersonal.Common.dll": {}
+        }
+      },
+      "APIPersonal.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/APIPersonal.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APIPersonal.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "APIPersonal.Common/1.0.0": {
+      "type": "project",
+      "path": "../APIPersonal.Common/APIPersonal.Common.csproj",
+      "msbuildProject": "../APIPersonal.Common/APIPersonal.Common.csproj"
+    },
+    "APIPersonal.Domain/1.0.0": {
+      "type": "project",
+      "path": "../APIPersonal.Domain/APIPersonal.Domain.csproj",
+      "msbuildProject": "../APIPersonal.Domain/APIPersonal.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "APIPersonal.Common >= 1.0.0",
+      "APIPersonal.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Soporte TI\\.nuget\\packages\\": {},
@@ -39,7 +74,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Soporte TI\\source\\repos\\APIPersonal\\APIPersonal.Common\\APIPersonal.Common.csproj": {
+              "projectPath": "C:\\Users\\Soporte TI\\source\\repos\\APIPersonal\\APIPersonal.Common\\APIPersonal.Common.csproj"
+            },
+            "C:\\Users\\Soporte TI\\source\\repos\\APIPersonal\\APIPersonal.Domain\\APIPersonal.Domain.csproj": {
+              "projectPath": "C:\\Users\\Soporte TI\\source\\repos\\APIPersonal\\APIPersonal.Domain\\APIPersonal.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
