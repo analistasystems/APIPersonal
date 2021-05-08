@@ -1,0 +1,15 @@
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\bin\Debug\netcoreapp3.1\APIPersonal.Common.deps.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\bin\Debug\netcoreapp3.1\APIPersonal.Common.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\bin\Debug\netcoreapp3.1\APIPersonal.Common.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\bin\Debug\netcoreapp3.1\APIPersonal.Domain.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\bin\Debug\netcoreapp3.1\APIPersonal.Domain.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.csprojAssemblyReference.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.AssemblyInfoInputs.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.AssemblyInfo.cs
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.csproj.CopyComplete
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\bin\Debug\netcoreapp3.1\APIPersonal.Common.runtimeconfig.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\bin\Debug\netcoreapp3.1\APIPersonal.Common.runtimeconfig.dev.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Common\obj\Debug\netcoreapp3.1\APIPersonal.Common.genruntimeconfig.cache

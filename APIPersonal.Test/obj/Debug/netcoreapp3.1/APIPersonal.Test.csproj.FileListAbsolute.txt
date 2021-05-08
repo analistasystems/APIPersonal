@@ -1,0 +1,4 @@
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Test\obj\Debug\netcoreapp3.1\APIPersonal.Test.csprojAssemblyReference.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Test\obj\Debug\netcoreapp3.1\APIPersonal.Test.AssemblyInfoInputs.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Test\obj\Debug\netcoreapp3.1\APIPersonal.Test.AssemblyInfo.cs
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Test\obj\Debug\netcoreapp3.1\APIPersonal.Test.csproj.CoreCompileInputs.cache

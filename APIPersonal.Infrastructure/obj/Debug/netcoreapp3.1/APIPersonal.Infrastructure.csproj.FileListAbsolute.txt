@@ -1,0 +1,17 @@
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.AssemblyInfo.cs
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Infrastructure.deps.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Infrastructure.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Infrastructure.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Common.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Domain.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Common.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Domain.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.csproj.CopyComplete
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Infrastructure.runtimeconfig.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\bin\Debug\netcoreapp3.1\APIPersonal.Infrastructure.runtimeconfig.dev.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Infrastructure\obj\Debug\netcoreapp3.1\APIPersonal.Infrastructure.genruntimeconfig.cache

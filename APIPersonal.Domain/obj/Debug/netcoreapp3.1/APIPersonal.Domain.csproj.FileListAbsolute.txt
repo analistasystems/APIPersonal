@@ -1,0 +1,12 @@
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\bin\Debug\netcoreapp3.1\APIPersonal.Domain.deps.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\bin\Debug\netcoreapp3.1\APIPersonal.Domain.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\bin\Debug\netcoreapp3.1\APIPersonal.Domain.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\obj\Debug\netcoreapp3.1\APIPersonal.Domain.csprojAssemblyReference.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\obj\Debug\netcoreapp3.1\APIPersonal.Domain.AssemblyInfoInputs.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\obj\Debug\netcoreapp3.1\APIPersonal.Domain.AssemblyInfo.cs
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\obj\Debug\netcoreapp3.1\APIPersonal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\obj\Debug\netcoreapp3.1\APIPersonal.Domain.dll
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\obj\Debug\netcoreapp3.1\APIPersonal.Domain.pdb
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\bin\Debug\netcoreapp3.1\APIPersonal.Domain.runtimeconfig.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\bin\Debug\netcoreapp3.1\APIPersonal.Domain.runtimeconfig.dev.json
+C:\Users\Soporte TI\source\repos\APIPersonal\APIPersonal.Domain\obj\Debug\netcoreapp3.1\APIPersonal.Domain.genruntimeconfig.cache
